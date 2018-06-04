@@ -168,7 +168,7 @@ img.scuola{
             </a>
           </li>
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white" href="#">
+            <a class="social-link rounded-circle text-white" href="https://github.com/Rondini-Matteo/cripty-web">
               <i class="icon-social-github"></i>
             </a>
           </li>
