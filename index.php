@@ -77,15 +77,17 @@ img.scuola{
 	
     <!-- Header -->
     <header class="header">
-	
-	   </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> <!--Sono 17 br, how to allineare il testo: perito informatico edition -->
+		<section class="about content-section text-center ">
+		<div class="about content-section text-center ">
+		<div class="col-lg-10 mx-auto">
         <h1>CRIPTY e la Sicurezza Informatica</h1>
         <h3>
           <em>di Rondini Matteo e Trivellini Sophia</em>
         </h3>
-      </div>
-	  </div>
-      <div class="overlay"></div>
+		<div class="overlay"></div>
+		</div>
+		</div>
+		</section>
     </header>
 
     <!-- About -->
@@ -168,7 +170,7 @@ img.scuola{
             </a>
           </li>
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white" href="https://github.com/Rondini-Matteo/cripty-web">
+            <a class="social-link rounded-circle text-white" href="https://github.com/Rondini-Matteo/cripty-web" target="_blank">
               <i class="icon-social-github"></i>
             </a>
           </li>
