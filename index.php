@@ -79,7 +79,7 @@ img.scuola{
     <header class="header">
 	
 	   </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> <!--Sono 17 br, how to allineare il testo: perito informatico edition -->
-        <h1>Cryptolocker e Sicurezza Informatica</h1>
+        <h1>CRIPTY e la Sicurezza Informatica</h1>
         <h3>
           <em>di Rondini Matteo e Trivellini Sophia</em>
         </h3>
@@ -94,7 +94,7 @@ img.scuola{
         <div class="row">
           <div class="col-lg-10 mx-auto ">
             <h2>Chi siamo?</h2>
-            <p class="lead mb-5">Ci presentiamo, siamo due studenti dell'Istituto Tecnico Tecnologico E.Divini.
+            <p class="lead mb-5" style="font-size:2vw; ">Ci presentiamo, siamo due studenti dell'Istituto Tecnico Tecnologico E.Divini.
 			Frequentiamo la specializzazione informatica, dove approfondiamo le conoscenze di una realtà sempre più in sviluppo, quella della tecnologia. </p>
             <a class="btn btn-dark btn-xl js-scroll-trigger" href="#services">ITT E.Divini</a>
           </div>
@@ -152,23 +152,13 @@ img.scuola{
       </div>
     </section>
 
-    <!-- Call to Action -->
-    <section class="content-section bg-primary text-white">
-      <div class="container text-center">
-        <h2 class="mb-4">The buttons below are impossible to resist...</h2>
-        <a href="#" class="btn btn-xl btn-light mr-4">Click Me!</a>
-        <a href="#" class="btn btn-xl btn-dark">Look at Me!</a>
-      </div>
-    </section>
-
 
     <!-- Footer -->
     <footer class="footer text-center" id="contact">
       <div class="container">
         <ul class="list-inline mb-5">
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white mr-3" 
-			href="https://www.facebook.com/itdivini/" target="_blank">
+            <a class="social-link rounded-circle text-white mr-3" href="https://www.facebook.com/itdivini/" target="_blank">
               <i class="icon-social-facebook"></i>
             </a>
           </li>

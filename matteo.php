@@ -78,6 +78,9 @@ p{
 			<li class="nav-item active">
 				<a class="nav-link js-scroll-trigger" style='color:#FFFFFF;' href="#bitcoin">Bitcoin</a>
 			</li>
+			<li class="nav-item active">
+				<a class="nav-link js-scroll-trigger" style='color:#FFFFFF;' href="https://www.divini5g.com/cryptolocker/riferimenti.php">Riferimenti</a>
+			</li>
 		</ul>
 	</nav>
 
@@ -132,7 +135,7 @@ p{
 		<div class="row">
 			<div class="testo mx-auto">
 			<p class="lead mb-5" style="font-size:2vw; ">Con il termine SHA si indica una famiglia di cinque diverse funzioni crittografiche di hash sviluppate a partire dal 1993, pubblicate dal NIST (National Institute of Standards and Technology) come standard federale dal governo degli USA.</p>
-			<p class="lead mb-5" style="font-size:2vw; ">Come ogni algoritmo di hash, l'SHA produce un message digest di lunghezza fissa partendo da un messaggio di lunghezza variabile. La sicurezza di un algoritmo di hash risiede nel fatto che la funzione non sia reversibile, cioè non è possibile risalire al messaggio originale tramite il digest. Inoltre una minima variazione nel messaggio genera un hash completamente differente,  a causa di una reazione a catena nota come effetto valanga.</p>
+			<p class="lead mb-5" style="font-size:2vw; ">Come ogni algoritmo di hash, lo SHA produce un message digest di lunghezza fissa partendo da un messaggio di lunghezza variabile. La sicurezza di un algoritmo di hash risiede nel fatto che la funzione non sia reversibile, cioè non è possibile risalire al messaggio originale tramite il digest. Inoltre una minima variazione nel messaggio genera un hash completamente differente,  a causa di una reazione a catena nota come effetto valanga.</p>
 			<p class="lead mb-5" style="font-size:2vw; ">Il primo algoritmo SHA-1 produce un digest del messaggio di soli 160 bit, mentre gli altri producono digest di lunghezza in bit pari al numero indicato nella loro sigla (SHA-256 produce un digest di 256 bit). </p>
 			<p class="lead mb-5" style="font-size:2vw; ">Nel 2001 il NIST pubblicò quattro funzioni di hash addizionali facenti parte della famiglia SHA, ognuna con un digest più lungo di quello originale, collettivamente denominate SHA-2 e sono: lo SHA-224, lo SHA-256, lo SHA-384 e lo SHA-512. </p>
 			</div>
@@ -181,16 +184,6 @@ p{
 				<p class="lead mb-5" style="font-size:2vw; ">Nel 2013 è stata generata metà delle possibili monete e per il 2017 saranno i tre quarti, in questo modo in meno di 32 anni verranno generate tutte le monete. All’avvicinarsi di quella data è probabile pensare che i bitcoin subiranno una deflazione nel valore (cioè un aumento del valore reale) dovuta alla scarsità di nuova moneta.</p>
 			</div>
         </div>
-      </div>
-    </section>
-
-    <!-- Callout -->
-    <section class="callout">
-      <div class="container text-center">
-        <h2 class="mx-auto mb-5">Welcome to
-          <em>your</em>
-          next website!</h2>
-        <a class="btn btn-primary btn-xl" href="https://startbootstrap.com/template-overviews/stylish-portfolio/">Download Now!</a>
       </div>
     </section>
 
