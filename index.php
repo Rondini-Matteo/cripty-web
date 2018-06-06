@@ -57,7 +57,8 @@ text-shadow:  0 0 150px black;
 img.scuola{
 
   display: block;
-
+  width:70%;
+  height: 70%;
   margin:0 auto;
 
 }
@@ -91,14 +92,16 @@ img.scuola{
     </header>
 
     <!-- About -->
-    <section class="about content-section bg-light text-center " id="about">
+    <section class="about content-section bg-light text-center auto" id="about">
       <div >
         <div class="row">
           <div class="col-lg-10 mx-auto ">
             <h2>Chi siamo?</h2>
             <p class="lead mb-5" style="font-size:2vw; ">Ci presentiamo, siamo due studenti dell'Istituto Tecnico Tecnologico E.Divini.
-			Frequentiamo la specializzazione informatica, dove approfondiamo le conoscenze di una realtà sempre più in sviluppo, quella della tecnologia. </p>
-            <a class="btn btn-dark btn-xl js-scroll-trigger" href="#services">ITT E.Divini</a>
+			Frequentiamo la specializzazione informatica, classe 5G. </p>
+			<div class="auto">
+			<img class="scuola" src="img/gruppo.jpg" alt="Matteo e Sophia">
+			</div>
           </div>
         </div>
       </div>
