@@ -4,6 +4,8 @@ A.S 2017-2018
 
 Progetto: CRIPTY e la Sicurezza Informatica di Trivellini Sophia e Rondini Matteo
 
+Ambiente Web
+
 https://www.divini5g.com/cryptolocker/
 
 
