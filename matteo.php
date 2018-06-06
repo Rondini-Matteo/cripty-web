@@ -117,9 +117,9 @@ p{
         </div>
         <div >
 			<div class="testo mx-auto">
-				<p class="lead mb-5" style="font-size:2vw; ">Il software appena lanciato eseguirà payload che cripterà i file personale sull’hard disk con una password; l’unico a conoscere la password per la decriptazione è l'autore del malware.Un payload è una qualsiasi operazione a tempo determinato, casuale o attivata da un trigger che un virus o worm manda in esecuzione. Per decodificare i file è richiesto un pagamento; il pagamento può essere effettuato tramite bonifico o tramite cryptovalute, come il Bitcoin.</p>				
+				<p class="lead mb-5" style="font-size:2vw; ">Il software appena lanciato eseguirà payload che cripterà i file personale sull’hard disk con una password; l’unico a conoscere la password per la decriptazione è l'autore del malware. Un payload è una qualsiasi operazione a tempo determinato, casuale o attivata da un trigger che un virus o worm manda in esecuzione. Per decodificare i file è richiesto un pagamento; il pagamento può essere effettuato tramite bonifico o tramite cryptovalute, come il Bitcoin.</p>				
 				<p class="lead mb-5" style="font-size:2vw; ">Il più famoso attacco cryptolocker degli ultimi anni può essere considerato WannaCry, avvenuto nel maggio 2017. L'attacco di WannaCry si è diffuso rubando un software sviluppato dalla NSA e chiamato EternalBlue, che sfruttava una vulnerabilità del sistema operativo Windows ed ha infettato oltre 230.000 computer in 150 paesi.</p>
-				<p class="lead mb-5" style="font-size:2vw; ">EternalBlue sfrutta una vulnerabilità nell'implementazione del protocollo Server Message Block (SMB) presente in alcuni sistemi operativi Microsoft. Grazie alla quale il computer accetta pacchetti di dati opportunamente prodotti da chi sta eseguendo un attacco remoto, permettendo a tali utenti remoti di eseguire codice arbitrario sulla macchina bersaglio dell'attacco.</p>
+				<p class="lead mb-5" style="font-size:2vw; ">EternalBlue sfrutta una vulnerabilità nell'implementazione del protocollo Server Message Block (SMB) presente in alcuni sistemi operativi Microsoft; grazie alla quale il computer accetta pacchetti di dati opportunamente prodotti da chi sta eseguendo un attacco remoto, permettendo a tali utenti remoti di eseguire codice arbitrario sulla macchina bersaglio dell'attacco.</p>
 				<p class="lead mb-5" style="font-size:2vw; ">Quando infetta un computer, WannaCry cripta i file bloccandone l'accesso e aggiunge l'estensione .WCRY; impedisce inoltre il riavvio del sistema. Dopo di che viene mostrato all’utente una schermata che lo informa che tutti i suoi file sono stati criptati e che ha 2 giorni per pagare un riscatto di 600 dollari in Bitcoin.</p>
 			</div>
         </div>
@@ -191,21 +191,25 @@ p{
     <!-- Footer -->
      <footer class="footer text-center" id="contact">
       <div class="container">
-        <ul class="list-inline mb-5 text-center">
+        <ul class="list-inline mb-5">
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white mr-3" 
-			href="https://www.facebook.com/itdivini/" target="_blank">
+            <a class="social-link rounded-circle text-white mr-3" href="https://www.facebook.com/itdivini/" target="_blank">
               <i class="icon-social-facebook"></i>
             </a>
           </li>
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white mr-3" href="https://www.instagram.com/itisdivini" target="_blank">
+            <a class="social-link rounded-circle text-white mr-3" href="https://www.instagram.com/itisdivini/" target="_blank">
               <i class="icon-social-instagram"></i>
             </a>
           </li>
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white" href="#">
-              <i class="icon-social-github"></i>
+            <a class="social-link rounded-circle text-white" href="https://github.com/Rondini-Matteo/Cripty" target="_blank">
+              <i class="icon-social-github">C</i>
+            </a>
+          </li>
+		  <li class="list-inline-item">
+            <a class="social-link rounded-circle text-white" href="https://github.com/Rondini-Matteo/cripty-web" target="_blank">
+              <i class="icon-social-github">W</i>
             </a>
           </li>
         </ul>

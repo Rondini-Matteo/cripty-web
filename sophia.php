@@ -32,7 +32,7 @@ setcookie("riferimenti", "sophia", time() + 3600, "/");
   <body id="page-top" data-spy="scroll" data-target=".navbar" data-offset="50">
    <!-- Navbar -->
 	<nav class="navbar navbar-expand-sm bg-dark navbar-light navbar-fixed-top ">
-		<ul class="navbar-nav">
+		<ul class="navbar-nav sinistra">
 			<li class="nav-item active">
 				<a class="nav-link js-scroll-trigger" style='color:#FFFFFF;' href="https://www.divini5g.com/cryptolocker/" target="_blank">Home Page </a>
 			</li>
@@ -53,6 +53,9 @@ setcookie("riferimenti", "sophia", time() + 3600, "/");
 			</li>
 			<li class="nav-item active">
 				<a class="nav-link js-scroll-trigger" style='color:#FFFFFF;' href="#gdpr">Legge GDPR </a>
+			</li>
+			<li class="nav-item active">
+				<a class="nav-link js-scroll-trigger" style='color:#FFFFFF;' href="https://www.divini5g.com/cryptolocker/riferimenti.php">Riferimenti</a>
 			</li>
 		</ul>
 	</nav>
@@ -88,7 +91,7 @@ p{
 	 text-align: left;
 }
 
-ul{
+.sinistra{
 	text-align: left;
 }
 </style>	
@@ -120,7 +123,7 @@ ul{
 Per valutare la sicurezza è necessario individuare le minacce e i rischi associati ai beni informatici, al fine di proteggerli.
 La sicurezza informatica è un problema molto sentito per via della crescente informatizzazione della società e della parallela diffusione e degli hacker.
 Caratteristiche fondamentali: </p>
-<ul class="lead mb-5" style="font-size:2vw;">
+<ul class="lead mb-5 sinistra" style="font-size:2vw;">
 <li>Safety (sicurezza): una serie di accorgimenti per eliminare la produzione di danni irreparabili all'interno del sistema;</li>
 <li>Reliability (affidabilità): prevenzione da eventi che possono produrre danni al sistema.</li>
 </ul>
@@ -140,7 +143,7 @@ Caratteristiche fondamentali: </p>
 			<div class="testo mx-auto">
 				<p class="lead mb-5" style="font-size:2vw; ">Un Malware (“software maligno”) è un qualsiasi programma creato per effettuare un’azione non autorizzata 
 			che può danneggiare il funzionamento e la sicurezza del sistema operativo.</p>
-			<ul class="lead mb-5" style="font-size:2vw; ">
+			<ul class="lead mb-5 sinistra" style="font-size:2vw; ">
 	<li><strong>Virus</strong>:è un programma che si propaga di file in file all’interno di uno stesso PC, muovendosi poi da un PC all’altro.
 	Può essere programmato per cancellare o danneggiare dati.
 </li>
@@ -173,7 +176,7 @@ Caratteristiche fondamentali: </p>
 		</div>
 		<div class="row">
 			<div class="testo mx-auto">
-			<ul class="lead mb-5" style="font-size:2vw;">
+			<ul class="lead mb-5 sinistra" style="font-size:2vw;">
 <li><strong>Hacker</strong> (white hat): appassionati di informatica che mettono a disposizione le loro conoscenze per creare programmi non dannosi
  utilizzabili da chiunque.
 </li>
@@ -181,15 +184,12 @@ Caratteristiche fondamentali: </p>
 </ul>
 <p class="lead mb-5" style="font-size:2vw;">Suddivisi in:</p>
 
-<ul class="lead mb-5" style="font-size:2vw;">
+<ul class="lead mb-5 sinistra" style="font-size:2vw;">
 <li><strong>Script kiddies</strong>: giovani che sfruttano malware scritti da altri per vantarsi dello loro capacità, pur non avendole.
 </li>
 
 	<li><strong>Hacktivist</strong>: soggetti spinti da motivazioni sociali, politiche o personali. Il loro obiettivo è rendere inutilizzabili i siti Web, 
 	bloccare servizi o rubare informazioni.
-</li>
-
-	<li><strong>Rootkit</strong>: permette di accedere a un computer senza l’autorizzazione dell’utente, eludendo i software di sicurezza.
 </li>
 
 	<li><strong>eMugger</strong>: soggetti  rubare e commerciare dati aziendali, segreti industriali e sottrarre dati personali.
@@ -221,7 +221,7 @@ Caratteristiche fondamentali: </p>
 			<p class="lead mb-5" style="font-size:2vw; ">Dal momento che l'informazione è un bene aziendale ogni organizzazione deve essere 
 			in grado di garantire la sicurezza dei propri dati. Per questo le imprese hanno precisi obblighi in materia di privacy. 
 			Una fase indispensabile di ogni pianificazione della sicurezza è la valutazione del rischio e la gestione del rischio. Come proteggere i dati: </p>
-			<ul class="lead mb-5" style="font-size:2vw; ">
+			<ul class="lead mb-5 sinistra" style="font-size:2vw; ">
 <li>Sapere quali sono i dati da proteggere;</li>
 	
 	<li>Formare i dipendenti;</li>
@@ -257,7 +257,7 @@ Tramite la valutazione delle applicazioni (application assessment) i team di sic
 come interagisce con gli altri dati presenti sui dispositivi mobili; potendo così determinare se un’app è adatta o meno all’uso aziendale ed i suoi rischi. 
 </p>
 <p class="lead mb-5" style="font-size:2vw;">Come fare <strong>application assessment</strong>:</p>
-<ul class="lead mb-5" style="font-size:2vw;">
+<ul class="lead mb-5 sinistra" style="font-size:2vw;">
 <li>Identificare i comportamenti pericolosi da cui difendersi.</li>
 <li>Ispezionare ciascuna applicazione per apprendere tutte le sue funzioni. Prendere poi la decisione se è adatta o meno per l’utilizzo in ambito aziendale.</li>
 </ul>
@@ -297,26 +297,28 @@ Il <strong>Data Protection Officer</strong>, abbreviato in DPO, rappresenta una 
 </section>
 
 
-  
-
     <!-- Footer -->
      <footer class="footer text-center" id="contact">
       <div class="container">
-        <ul class="list-inline mb-5 text-center">
+        <ul class="list-inline mb-5 ">
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white mr-3" 
-			href="https://www.facebook.com/itdivini/" target="_blank">
+            <a class="social-link rounded-circle text-white mr-3" href="https://www.facebook.com/itdivini/" target="_blank">
               <i class="icon-social-facebook"></i>
             </a>
           </li>
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white mr-3" href="https://www.instagram.com/itisdivini" target="_blank">
+            <a class="social-link rounded-circle text-white mr-3" href="https://www.instagram.com/itisdivini/" target="_blank">
               <i class="icon-social-instagram"></i>
             </a>
           </li>
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white" href="#">
-              <i class="icon-social-github"></i>
+            <a class="social-link rounded-circle text-white" href="https://github.com/Rondini-Matteo/Cripty" target="_blank">
+              <i class="icon-social-github">C</i>
+            </a>
+          </li>
+		  <li class="list-inline-item">
+            <a class="social-link rounded-circle text-white" href="https://github.com/Rondini-Matteo/cripty-web" target="_blank">
+              <i class="icon-social-github">W</i>
             </a>
           </li>
         </ul>

@@ -120,12 +120,8 @@ img.scuola{
    
 
     <!-- Portfolio -->
-    <section class="content-section auto" id="portfolio">
+    <section class="content-section auto text-center" id="portfolio">
       <div class="container">
-        <div class="content-section-heading text-center">
-          <h2 class="text-secondary mb-0"></h2>
-          <h2 class="mb-5">Progetti</h2>
-        </div>
         <div class="row no-gutters">
           <div class="col-lg-6" >
             <a class="portfolio-item" href="https://www.divini5g.com/cryptolocker/matteo.php" target="_blank">
@@ -151,8 +147,11 @@ img.scuola{
           </div>
           </div>
         </div>
-      </div>
+		<div class="content-section text-center">
+			<a class="btn btn-dark btn-xl js-scroll-trigger" href="https://drive.google.com/drive/folders/12PeAPINKrq_CxINM_Pm6SoNTMMd13q_I?usp=sharing" target="_blank" >Download Cripty</a>
+		</div>
     </section>
+
 
 
     <!-- Footer -->
@@ -170,8 +169,13 @@ img.scuola{
             </a>
           </li>
           <li class="list-inline-item">
+            <a class="social-link rounded-circle text-white" href="https://github.com/Rondini-Matteo/Cripty" target="_blank">
+              <i class="icon-social-github">C</i>
+            </a>
+          </li>
+		  <li class="list-inline-item">
             <a class="social-link rounded-circle text-white" href="https://github.com/Rondini-Matteo/cripty-web" target="_blank">
-              <i class="icon-social-github"></i>
+              <i class="icon-social-github">W</i>
             </a>
           </li>
         </ul>
