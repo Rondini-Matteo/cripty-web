@@ -108,17 +108,20 @@ img.scuola{
     </section>
 
     <!-- Services -->
-    <section class="content-section bg-primary text-white text-center auto" id="services">
-      <div class="container">
+    <section class="content-section bg-primary text-white text-center" id="services">
+      <div>
         <div class="content-section-heading">
-          <h2 class="text-secondary mb-0">ITT E.Divini</h2>
-          <h2 class="mb-5">Informatica: la nostra specializzazione!</h2>
+          <h2 class="mb-5" style="color:#ffd480;">Introduzione</h2>
         </div>
-        <div class="row">
-		 <img class="scuola" src="img/scuola.jpg" alt="">
+        <div>
+			<div class="testo mx-auto text-left">
+			<p class="lead mb-5" style="font-size:2vw; ">Questo progetto nasce dalla curiosità suscitata da un argomento sempre più presente nella realtà digitale odierna, il problema della sicurezza informatica. A causa di questa tematica sempre più diffusa è stato necessario per le aziende creare una nuova figura lavorativa il Data Protection Officer, relativo alla nuova legge GDPR.</p>
+			<p class="lead mb-5" style="font-size:2vw; ">Nell’attività quotidiana, per esempio, un operatore di un’azienda potrebbe riceve un’email di un hacker che falsifica la sua identità, spacciandosi per un ente bancario. L’email sarà strutturata in modo da spingere la vittima a scaricare l’allegato, solitamente appare come un pdf. Una volta aperto il file, il malware eseguirà un payload, cioè un’operazione che un virus o un worm mandano in esecuzione una volta attivati. </p>
+			<p class="lead mb-5" style="font-size:2vw; ">Vengono così criptati i file presenti nell’hard disk come pdf e documenti di testo, causando ingenti danni all’utente dato che potrebbe perdere file di straordinaria importanza. Per riottenere i file la vittima deve necessariamente pagare una somma all’hacker tramite bonifico o tramite cryptovalute, come i Bitcoin.</p>
+			</div>
         </div>
       </div>
-    </section>
+    </section>  
 
    
 
