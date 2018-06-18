@@ -156,6 +156,8 @@ img.scuola{
 		<div class="content-section text-center">
 			<a class="btn btn-dark btn-xl js-scroll-trigger" href="https://drive.google.com/drive/folders/12PeAPINKrq_CxINM_Pm6SoNTMMd13q_I?usp=sharing" target="_blank" >Download Cripty</a>
 		</div>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/HMo70o6zSgY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/zVhpU9bQs2s?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </section>
 
 
